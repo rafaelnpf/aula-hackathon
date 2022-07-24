@@ -1,5 +1,6 @@
 # aula-hackathon
 Rafael
+Eric
 Mauricio
 Rafael
 Tárcio
