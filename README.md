@@ -1,5 +1,6 @@
 # aula-hackathon
 Rafael
+Assuero
 Ariel
 Jaqueline
 Rafael
