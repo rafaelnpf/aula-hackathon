@@ -1,5 +1,7 @@
 # aula-hackathon
 Rafael
+Mauricio
+Rafael
 Tárcio
 Assuero
 Ariel
