@@ -1,4 +1,6 @@
 # aula-hackathon
+Rafael
+Ariel
 Jaqueline
 Rafael
 Matheus 
